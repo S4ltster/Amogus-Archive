@@ -1,5 +1,5 @@
-# amogus
-Submit any language you'd like.
+# amogus, Archived
+View any Submitted language you'd like. (Before they were catagorized)
 
 ## Submission Requirements
 - Must print only `ඞ amogus`
@@ -10,8 +10,9 @@ Submit any language you'd like.
 
 ## Special Thanks
 I'll put this here because the language list is long.
-- [Deltara3](https://github.com/Deltara3) - For this amazing idea.
+- [Deltara3](https://github.com/Deltara3) - For the original repo
 - [Contributors](https://github.com/Deltara3/amogus/graphs/contributors) - For adding more languages, or for fixing mistakes.
+- [S4ltster](https://github.com/S4ltster) - For creating the Archived version of the original amogus repo
 
 ## Language List
 - Ada
