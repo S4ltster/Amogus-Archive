@@ -1,4 +1,4 @@
-# amogus, Archived
+# amogus, archived
 View any Submitted language you'd like. (Before they were catagorized)
 
 ## Submission Requirements
